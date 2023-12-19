@@ -3,4 +3,5 @@
 ![screen shot](./public/screenshot.png)
 
 ## How to run ? 
-``` npm run dev ``` 
+first install the dependencies : ```npm i```
+then run this command :``` npm run dev ``` 
