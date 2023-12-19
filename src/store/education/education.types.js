@@ -1,0 +1,3 @@
+export const EDUCATION_ACTION_TYPES = {
+    SET_EDUCATION: "SET_EDUCATION",
+};
